@@ -1,5 +1,8 @@
 # LMM_nested
 评估组学的贡献度以及贡献度的显著性
+参考文献：
+Bolker BM, Brooks ME, Clark CJ, Geange SW, Poulsen JR, Stevens MH, White JS. Generalized linear mixed models: a practical guide for ecology and evolution. Trends Ecol Evol. 2009 Mar;24(3):127-35. doi: 10.1016/j.tree.2008.10.008. PMID: 19185386.
+Schielzeth H, Nakagawa S. Nested by design: model fitting and interpretation in a mixed model era[J]. Methods in Ecology and Evolution, 2013, 4(1): 14-24.
 1. Random_Effects_Contribution 表的解读
 表示例：
 grp	var1	var2	vcov	sdcor	Contribution (%)
