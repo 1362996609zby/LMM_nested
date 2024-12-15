@@ -4,6 +4,7 @@ library(tidyr)     # 数据转换
 library(dplyr)     # 数据操作
 library(lme4)      # 构建混合模型
 library(lmerTest)  # 提供显著性检验
+library(performance) # 加载 performance 包
 library(writexl)   # 导出Excel文件
 
 # Step 1: 读取表型数据 ----
